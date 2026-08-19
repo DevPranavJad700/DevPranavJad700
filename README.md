@@ -72,3 +72,105 @@ class Developer {
 }
 
 const pranav = new Developer();
+```
+
+- 🏆 **Competitive Programming:** Active contestant on **[Codeforces](https://codeforces.com/profile/DevPranavJad700)**, **[CodeChef](https://www.codechef.com/users/staywithme)**, and **[AtCoder](https://atcoder.jp/users/StayWithMe)**.
+- 🔭 **Featured SaaS Project:** [EventSync](https://github.com/DevPranavJad700/EventSync) — Production multi-tenant event management platform.
+- 💬 **Ask Me About:** Data Structures & Algorithms, Next.js 16 App Router, TypeScript, Prisma ORM, and System Design.
+- ⚡ **Fun Fact:** I turn caffeine into clean code & love watching epic movies and football matches!
+
+---
+
+### ⚽ 🍿 Beyond The Code | Passions & Favorites
+
+<div align="center">
+
+  <!-- Custom Badges for Hobbies & Favorites -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Football-Manchester%20United-DA291C?style=for-the-badge&logo=manchesterunited&logoColor=white" alt="Manchester United" />
+    <img src="https://img.shields.io/badge/GOAT-Cristiano%20Ronaldo%20(CR7)-000000?style=for-the-badge&logo=nike&logoColor=gold" alt="Cristiano Ronaldo" />
+    <img src="https://img.shields.io/badge/Fav%20Movie-Whiplash-111111?style=for-the-badge&logo=netflix&logoColor=red" alt="Whiplash" />
+    <img src="https://img.shields.io/badge/Fav%20Series-Queen%20Of%20Tears-FFB6C1?style=for-the-badge&logo=viki&logoColor=black" alt="Queen of Tears" />
+  </p>
+
+</div>
+
+```javascript
+const lifestyle = {
+  football: {
+    favoriteClub: "Manchester United 🔴 (Red Devils Fanatic)",
+    theGOAT: "Cristiano Ronaldo 👑 (CR7 - SIUUU!)"
+  },
+  cinema: {
+    favoriteMovie: "Whiplash 🥁 ('Not quite my tempo!')",
+    favoriteSeries: "Queen Of Tears 👑💧 (Peak K-Drama)",
+    interests: ["Movies", "Series", "Football Thrillers", "Cinema Masterpieces"]
+  }
+};
+```
+
+| Category | My Favorites | Details |
+| :--- | :--- | :--- |
+| ⚽ **Football Club** | **Manchester United** 🔴 | Die-hard Red Devils Supporter |
+| 👑 **GOAT Player** | **Cristiano Ronaldo (CR7)** 🐐 | Hard Work, Perfection & Greatness |
+| 🎬 **Favorite Movie** | **Whiplash** 🥁 | Masterclass in Obsession & Perfection |
+| 📺 **Favorite Series** | **Queen of Tears** 👑💧 | Emotional Rollercoaster & K-Drama Masterpiece |
+
+---
+
+### 🛠️ Tech Stack & Skills Matrix
+
+<div align="center">
+
+  #### 🧠 Competitive Programming & Core Languages
+  <p>
+    <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,py" alt="Core Languages" />
+  </p>
+
+  #### 🌐 Web Engineering & Frontend
+  <p>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,redux" alt="Frontend Stack" />
+  </p>
+
+  #### ⚙️ Backend, Databases & BaaS
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,appwrite" alt="Backend & DBs" />
+  </p>
+
+  #### 🔧 Tools, Cloud & Workflow
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,npm" alt="Tools & Workflow" />
+  </p>
+
+</div>
+
+---
+
+### 🚀 Featured Repositories
+
+| Project | Stack | Description | Links |
+| :--- | :--- | :--- | :---: |
+| ⚡ **[EventSync](https://github.com/DevPranavJad700/EventSync)** | Next.js 16, Clerk, NeonDB, Prisma 7, Tailwind | Multi-tenant SaaS platform for seamless event management & ticket sync. | [Repo](https://github.com/DevPranavJad700/EventSync) |
+| 💬 **[AskAway](https://github.com/DevPranavJad700/AskAway)** | Next.js, Appwrite, React, Tailwind CSS | Full-stack Stack Overflow-style developer Q&A community platform. | [Repo](https://github.com/DevPranavJad700/AskAway) |
+| 🔑 **[auth-nextjs](https://github.com/DevPranavJad700/auth-nextjs)** | Next.js, TypeScript, Tailwind | Modern authentication starter template & boilerplate for Next.js apps. | [Repo](https://github.com/DevPranavJad700/auth-nextjs) |
+
+---
+
+<div align="center">
+
+  ### 💭 Daily Quote
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Developer Quote" />
+
+  <br/><br/>
+
+  ### 🤝 Connect & Collaborate
+
+  [![Follow on GitHub](https://img.shields.io/github/followers/DevPranavJad700?label=Follow%20%40DevPranavJad700&style=social)](https://github.com/DevPranavJad700)
+
+  <br/>
+
+  <!-- Profile Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=DevPranavJad700&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+</div>
