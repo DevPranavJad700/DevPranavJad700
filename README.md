@@ -15,18 +15,21 @@
     <strong>Full-Stack Engineer & Competitive Programmer</strong> passionate about high-performance algorithms, multi-tenant SaaS architecture, and modern web platforms.
   </p>
 
-  <!-- Social & Professional Badges -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/pranav-jadhav-4853441b3/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://twitter.com/PranavJadh64592" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="mailto:pranavjadhav532@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+ <!-- Social & Professional Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranav-jadhav-4853441b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/PranavJadh64592" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:pranavjadhav532@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://devpranavjad700.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
   <!-- Competitive Programming Badges -->
   <p align="center">
